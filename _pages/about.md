@@ -1,7 +1,7 @@
 ---
 layout: single
 author_profile: true
-permalink: '/about'
+permalink: '/_pages/about'
 ---
 
 Hi. I'm me

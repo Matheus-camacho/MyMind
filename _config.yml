@@ -104,8 +104,8 @@ analytics:
 author:
   name             : "Matheus Camacho"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  bio              : "I'm a quant trying to understand the world and make it better along the way"
+  location         : "San Francisco, CA. Earth - Solar System, Orion's Arm - Milky way"
   email            :
   links:
     - label: "Email"

@@ -12,13 +12,13 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
 title                    : "Matheus' Mind"
 title_separator          : "-"
-subtitle                 : "Where I share my thoughts, experiments and thought experiments"
+subtitle                 : "This is where I share my thoughts, experiments and thought experiments"
 name                     : "Matheus Camacho"
 description              : "An amazing website."
 url                      :  "https://matheus-camacho.github.io"
@@ -288,3 +288,10 @@ defaults:
       comments: # true
       share: true
       related: true
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true

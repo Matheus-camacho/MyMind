@@ -103,9 +103,9 @@ analytics:
 # Site Author
 author:
   name             : "Matheus Camacho"
-  avatar           : "/assets/images/profile.jpg"
+  avatar           : "/assets/image/profile.png"
   bio              : "Just a quant trying to understand the world and make it better along the way"
-  location         : "San Francisco, CA, USA, Earth"
+  location         : "San Francisco, CA - USA, Earth"
   email            :
   links:
     - label: "Email"

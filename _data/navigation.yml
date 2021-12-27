@@ -11,7 +11,7 @@ main:
   - title: "Projects"
     url: "/_pages/projects/"
   - title: "CV"
-    url: "/_pages/about/"
+    url: "/_pages/CV/"
 
   # - title: "Sample Collections"
   #   url: /collection-archive/

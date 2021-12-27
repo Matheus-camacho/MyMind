@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "n
 locale                   : "en-US"
 title                    : "Matheus' Mind"
 title_separator          : "-"
-subtitle                 : "This is where I share my thoughts, experiments and thought experiments"
+subtitle                 : "Where I share my thoughts, experiments and thought experiments"
 name                     : "Matheus Camacho"
 description              : "An amazing website."
 url                      :  "https://matheus-camacho.github.io"
@@ -104,8 +104,8 @@ analytics:
 author:
   name             : "Matheus Camacho"
   avatar           : "/assets/images/profile.jpg"
-  bio              : "I'm a quant trying to understand the world and make it better along the way"
-  location         : "San Francisco, CA - Earth"
+  bio              : "Just a quant trying to understand the world and make it better along the way"
+  location         : "San Francisco, CA, USA, Earth"
   email            :
   links:
     - label: "Email"
